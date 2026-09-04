@@ -7,7 +7,7 @@ about:
   head: 5d1e2fd
   archived: true
   latestVersion: 0.6.2
-  collectedAt: 2026-09-04T19:57:51Z
+  collectedAt: 2026-09-04T20:41:27Z
 timeline:
   created: 2019-07-20
   lastCommit: 2020-08-29
@@ -80,5 +80,33 @@ total:
   openIssue: 39
   commit: 230
 ---
+path: /home/runner/.x-repo/github.com/cjbassi/ytop
+collectedAt: 2026-09-04T20:41:28Z
+loc:
+  Rust:
+    code: 2175
+    comments: 86
+    blanks: 339
+    files: 19
+  Json:
+    code: 70
+    comments: 0
+    blanks: 35
+    files: 5
+  Toml:
+    code: 37
+    comments: 0
+    blanks: 3
+    files: 2
+  Markdown:
+    code: 0
+    comments: 198
+    blanks: 88
+    files: 2
+total:
+  code: 2287
+  comments: 310
+  blanks: 467
+  files: 28
 ---
 
