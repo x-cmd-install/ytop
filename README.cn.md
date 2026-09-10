@@ -6,13 +6,24 @@
 
 A TUI system monitor written in Rust
 
-![ytop](https://repo.x-cmd.io/ytop.svg)
+![ytop](https://repo.x-cmd.io/ytop.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install ytop
 ```
+
+## 代码规模
+
+合计: **2,282** 行代码（覆盖前 5 种语言、共 **28** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 2,175 | 86 | 339 | 19 |
+| Json | 70 | 0 | 35 | 5 |
+| Toml | 37 | 0 | 3 | 2 |
+| Markdown | 0 | 198 | 88 | 2 |
 
 ## 源代码
 
@@ -24,7 +35,6 @@ x install ytop
 - **最新版本**: `0.6.2` (2020-05-16)
 - **最近提交**: 2020-08-29
 - **Release 含资产**: 2 个
-- **发布时间**: 2020-05-16T22:05:31Z
 
 ## 流行度
 
@@ -39,19 +49,18 @@ x install ytop
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-## 代码规模
+## Release 资产
 
-合计: **2,282** 行代码（覆盖前 5 种语言、共 **28** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 2,175 | 86 | 339 | 19 |
-| Json | 70 | 0 | 35 | 5 |
-| Toml | 37 | 0 | 3 | 2 |
-| Markdown | 0 | 198 | 88 | 2 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [ytop-0.6.2-x86_64-apple-darwin.tar.gz](https://github.com/cjbassi/ytop/releases/download/0.6.2/ytop-0.6.2-x86_64-apple-darwin.tar.gz) | 953.1 KiB | `native/darwin/x64` |
+| [ytop-0.6.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/cjbassi/ytop/releases/download/0.6.2/ytop-0.6.2-x86_64-unknown-linux-gnu.tar.gz) | 1.6 MiB | `native/linux/x64/glibc` |
 
 ## 改进这些数据
 
@@ -62,4 +71,4 @@ ytop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:06:25Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:30:22Z._
