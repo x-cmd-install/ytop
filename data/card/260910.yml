@@ -7,7 +7,7 @@ about:
   latestVersion: "0.6.2"
   latestRelease: "0.6.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:30:13Z
+  collectedAt: 2026-09-10T23:13:58Z
 timeline:
   created: 2019-07-20
   lastCommit: 2020-08-29
@@ -83,7 +83,7 @@ total:
   commit: 230
 ---
 path: /home/runner/.x-repo/github.com/cjbassi/ytop
-collectedAt: 2026-09-10T20:30:14Z
+collectedAt: 2026-09-10T23:13:59Z
 loc:
   Rust:
     code: 2175
