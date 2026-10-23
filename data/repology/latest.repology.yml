@@ -1,0 +1,19 @@
+- repo: crates_io
+  srcname: ytop
+  visiblename: ytop
+  version: 0.6.2
+  origversion: null
+  status: outdated
+  summary: A TUI system monitor written in Rust
+- repo: freebsd
+  srcname: sysutils/ytop
+  binname: ytop
+  visiblename: sysutils/ytop
+  version: 1.0.1
+  origversion: 1.0.1_1
+  status: newest
+  summary: Minimal process monitor for FreeBSD
+  maintainers:
+    - vim@vimer.org
+  categories:
+    - sysutils
