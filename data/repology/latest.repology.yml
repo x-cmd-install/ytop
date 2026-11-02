@@ -9,7 +9,7 @@
   srcname: sysutils/ytop
   binname: ytop
   visiblename: sysutils/ytop
-  version: 1.0.2
+  version: 1.0.3
   origversion: null
   status: newest
   summary: Minimal process monitor for FreeBSD
